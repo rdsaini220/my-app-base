@@ -1,0 +1,42 @@
+<svg viewBox="0 0 400 350" xmlns="http://www.w3.org/2000/svg" style="width: 100%; height: auto; display: block;">
+  
+  <rect x="110" y="35" width="180" height="280" rx="24" stroke-width="2" fill="#ffffff" stroke="#f3f4f6"></rect>
+  
+  <rect x="120" y="55" width="160" height="240" rx="16" fill="#f9fafb"></rect>
+  
+  <rect x="130" y="65" width="140" height="40" rx="12" fill="rgba(15, 76, 54, 0.1)"></rect>
+  
+  <path d="M135 180 C150 170, 160 190, 180 160 C200 130, 210 140, 230 120 C240 110, 250 115, 265 105" fill="none" stroke="#0F4C36" stroke-linecap="round" stroke-width="4"></path>
+  
+  <path d="M135 180 C150 170, 160 190, 180 160 C200 130, 210 140, 230 120 C240 110, 250 115, 265 105 V 200 H 135 Z" fill="rgba(15, 76, 54, 0.2)" style="mix-blend-mode: multiply;"></path>
+  
+  <g transform="translate(250, 90)">
+    <circle cx="0" cy="0" r="18" fill="#ffffff"></circle>
+    <path d="M-6 -2 L0 6 L8 -6" fill="none" stroke="#0F4C36" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5"></path>
+  </g>
+  
+  <g transform="translate(150, 140)">
+    <circle cx="0" cy="0" r="12" fill="#ffffff"></circle>
+    <rect x="-4" y="-4" width="8" height="8" rx="2" fill="rgba(15, 76, 54, 0.4)"></rect>
+  </g>
+  
+  <rect x="140" y="220" width="120" height="10" rx="5" fill="#e5e7eb"></rect>
+  <rect x="140" y="240" width="80" height="10" rx="5" fill="#e5e7eb"></rect>
+  
+  <g transform="translate(60, 220)">
+    <circle cx="40" cy="40" r="45" fill="#ffffff"></circle>
+    <path d="M40 40 L40 10 A30 30 0 0 1 66 25 Z" fill="#0F4C36"></path>
+    <path d="M40 40 L66 25 A30 30 0 1 1 40 10 Z" fill="rgba(15, 76, 54, 0.6)"></path>
+    <circle cx="40" cy="40" r="15" fill="#ffffff"></circle>
+  </g>
+  
+  <g transform="translate(260, 200)">
+    <rect x="0" y="0" width="70" height="90" rx="12" fill="#ffffff"></rect>
+    <rect x="12" y="35" width="12" height="40" rx="4" fill="#0F4C36"></rect>
+    <rect x="29" y="15" width="12" height="60" rx="4" fill="rgba(15, 76, 54, 0.6)"></rect>
+    <rect x="46" y="45" width="12" height="30" rx="4" fill="rgba(15, 76, 54, 0.3)"></rect>
+  </g>
+  
+  <path d="M340 80 L343 87 L350 90 L343 93 L340 100 L337 93 L330 90 L337 87 Z" fill="#facc15"></path>
+
+</svg>

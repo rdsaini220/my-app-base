@@ -1,0 +1,7 @@
+import React from 'react';
+import { ForgotPasswordScreen } from '@/features/auth';
+
+export default function ForgotPasswordRoute() {
+  return <ForgotPasswordScreen />;
+}
+

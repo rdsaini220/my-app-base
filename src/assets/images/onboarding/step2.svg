@@ -1,0 +1,32 @@
+<svg fill="none" viewBox="0 0 400 400" xmlns="http://www.w3.org/2000/svg">
+<path class="dark:fill-gray-800" d="M200,40 C111.6,40 40,111.6 40,200 C40,288.4 111.6,360 200,360 C288.4,360 360,288.4 360,200 C360,111.6 288.4,40 200,40 Z" fill="#E0F2E9" fill-opacity="0.6"></path>
+<line stroke="#9CA3AF" stroke-dasharray="8 8" stroke-linecap="round" stroke-width="2" x1="200" x2="100" y1="200" y2="280"></line>
+<line stroke="#9CA3AF" stroke-dasharray="8 8" stroke-linecap="round" stroke-width="2" x1="200" x2="300" y1="200" y2="280"></line>
+<line stroke="#9CA3AF" stroke-dasharray="8 8" stroke-linecap="round" stroke-width="2" x1="200" x2="200" y1="200" y2="80"></line>
+<circle class="dark:fill-gray-700" cx="200" cy="200" fill="white" r="75" stroke="#E5E7EB" stroke-width="1"></circle>
+<circle class="dark:fill-gray-600" cx="200" cy="200" fill="#E0F2E9" r="55"></circle>
+<circle cx="200" cy="200" fill="#1A4D3E" r="35"></circle>
+<circle cx="200" cy="200" fill="#F59E0B" r="12"></circle>
+<g transform="translate(200, 80)">
+<circle class="dark:fill-gray-700 dark:stroke-gray-600" cx="0" cy="0" fill="#F8FAFC" r="28" stroke="#E5E7EB" stroke-width="2"></circle>
+<path d="M-10 10 Q 0 20 10 10" fill="none" stroke="#1A4D3E" stroke-linecap="round" stroke-width="2"></path>
+<circle cx="-8" cy="-2" fill="#1A4D3E" r="3"></circle>
+<circle cx="8" cy="-2" fill="#1A4D3E" r="3"></circle>
+</g>
+<g transform="translate(100, 280)">
+<circle class="dark:fill-gray-700 dark:stroke-gray-600" cx="0" cy="0" fill="#F8FAFC" r="28" stroke="#E5E7EB" stroke-width="2"></circle>
+<path d="M-10 10 Q 0 20 10 10" fill="none" stroke="#1A4D3E" stroke-linecap="round" stroke-width="2"></path>
+<circle cx="-8" cy="-2" fill="#1A4D3E" r="3"></circle>
+<circle cx="8" cy="-2" fill="#1A4D3E" r="3"></circle>
+</g>
+<g transform="translate(300, 280)">
+<circle class="dark:fill-gray-700 dark:stroke-gray-600" cx="0" cy="0" fill="#F8FAFC" r="28" stroke="#E5E7EB" stroke-width="2"></circle>
+<path d="M-10 10 Q 0 20 10 10" fill="none" stroke="#1A4D3E" stroke-linecap="round" stroke-width="2"></path>
+<circle cx="-8" cy="-2" fill="#1A4D3E" r="3"></circle>
+<circle cx="8" cy="-2" fill="#1A4D3E" r="3"></circle>
+</g>
+<circle cx="150" cy="140" fill="#F59E0B" r="16" stroke="white" stroke-width="2"></circle>
+<text fill="white" font-family="sans-serif" font-size="18" font-weight="bold" text-anchor="middle" x="150" y="146">$</text>
+<circle cx="250" cy="240" fill="#F59E0B" r="16" stroke="white" stroke-width="2"></circle>
+<text fill="white" font-family="sans-serif" font-size="18" font-weight="bold" text-anchor="middle" x="250" y="246">$</text>
+</svg>
